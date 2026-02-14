@@ -43,3 +43,7 @@ ENV/
 
 # VS Code (optional)
 .vscode/
+
+
+0_Init_Data/
+data/raw/
