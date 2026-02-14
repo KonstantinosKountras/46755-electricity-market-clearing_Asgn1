@@ -1,0 +1,12 @@
+# Ignore large raw data
+0_Init_Data/
+
+# Ignore documents
+*.pdf
+*.docx
+*.url
+*.zip
+
+# Python stuff
+__pycache__/
+.ipynb_checkpoints/
